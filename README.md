@@ -1,5 +1,6 @@
 # Portfolio
-This repository contains most of the projects that I have worked on
+
+The following are links to all of the projects that I have worked on with other members:
 
 [Tv Show Episodes Tracker](https://github.com/SnowyTheBear67/SQLSquirrelsProject)
 
