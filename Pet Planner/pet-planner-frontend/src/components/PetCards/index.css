@@ -1,0 +1,49 @@
+.pet-card__container-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+
+.pet-card__container{
+  width: 250px; 
+  height: 350px; 
+  overflow: hidden;
+  margin: 10px;
+  border: 3px solid #7a4545de;
+  display: flex;
+  flex-direction: column;
+  border-top-left-radius: 50%;  
+  border-top-right-radius: 50%;
+ 
+  
+}
+
+.pet-card__container:hover{
+  border: 8px solid #ff0008de;
+background-color: rgb(236, 7, 7);
+
+}
+
+ .pet-card__name{
+  font-size: 33px;
+    font-weight: bold;
+    font-family: fantasy;
+    margin: auto;
+    margin-top: 74px;
+    padding: 1px; 
+    text-align: center;
+    color:black;
+    
+ }
+
+  
+ .pet-card__door{
+
+  flex: 2; 
+  background: url('https://clipart-library.com/img/1771691.jpg') center/cover no-repeat;
+  background-size:185%;
+ }
+
+  
